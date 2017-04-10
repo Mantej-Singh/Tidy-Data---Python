@@ -7,12 +7,5 @@ Cleaning data from this:
 To this:
 [![screenshot_1491846441.png](https://s19.postimg.org/bdbcmz86r/screenshot_1491846441.png)](https://postimg.org/image/5cdnpwlkf/)
 
-From this:
-[![screenshot_1491846664.png](https://s19.postimg.org/qbtrhen8z/screenshot_1491846664.png)](https://postimg.org/image/jy4oe5icv/)
-
-To this: 
-[![screenshot_1491846644.png](https://s19.postimg.org/s2csiw4s3/screenshot_1491846644.png)](https://postimg.org/image/acb3xur73/)
-
-
 -----
 Reference: Jean-Nicholas Hould and Kdnuggets
